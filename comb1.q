@@ -33,3 +33,44 @@ randp 32
 all (til 100) = asc randp 100 /1b
 
 count each group rankp each {(randp 3)} each til 300
+\t count each group rankp each {(randp 30)} each til 3000
+
+// TODO
+
+/ transpositions
+/ distinct permutations
+
+
+// Permutation Groups
+
+// TODO
+/ Inverse
+/ Cycles
+/ Signature
+/ Stirling Numbers
+
+
+// Inversions
+
+/ TODO
+/ Index
+/ Runs
+/ Eulerian
+
+// Special Classes of Permutations
+
+/ TODO
+/ Involutions
+/ Derangements
+/ Josephus
+/ Heaps
+
+
+// Combinations
+
+/ TODO
+/ Strings
+/ Subsets
+/ Gray Codes
+/ k-Subsets
+
